@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
+	<folder>test</folder>
 	<filename>11.jpg</filename>
-	<path>/home/sri/Desktop/singer/SingerLogoDetection/Python/logos/images/11.jpg</path>
+	<path>/home/sri/Desktop/singer/SingerLogoDetection/Python/logos/converter/test/11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>450</width>
-		<height>300</height>
+		<width>1000</width>
+		<height>667</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>38</xmin>
-			<ymin>169</ymin>
-			<xmax>89</xmax>
-			<ymax>188</ymax>
+			<xmin>127</xmin>
+			<ymin>431</ymin>
+			<xmax>297</xmax>
+			<ymax>519</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>23.jpg</filename>
+	<path>/home/sri/Desktop/singer/SingerLogoDetection/Python/logos/converter/test/23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>singer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>172</ymin>
+			<xmax>244</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

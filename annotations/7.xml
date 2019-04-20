@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
+	<folder>test</folder>
 	<filename>7.jpg</filename>
-	<path>/home/sri/Desktop/singer/SingerLogoDetection/Python/logos/images/7.jpg</path>
+	<path>/home/sri/Desktop/singer/SingerLogoDetection/Python/logos/converter/test/7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>259</width>
-		<height>194</height>
+		<width>1600</width>
+		<height>2220</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>178</xmin>
-			<ymin>10</ymin>
-			<xmax>254</xmax>
-			<ymax>31</ymax>
+			<xmin>32</xmin>
+			<ymin>7</ymin>
+			<xmax>312</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>singer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1174</xmin>
+			<ymin>2039</ymin>
+			<xmax>1569</xmax>
+			<ymax>2105</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>singer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>1282</ymin>
+			<xmax>390</xmax>
+			<ymax>1352</ymax>
 		</bndbox>
 	</object>
 </annotation>
